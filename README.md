@@ -1,21 +1,98 @@
+# 👋 Hi, I'm Faizan Sarfraz
 
-# Faizan Sarfraz This Side 👋
+💻 Flutter Developer | 📱 Cross-Platform Apps | ⚡ Clean Architecture Enthusiast  
 
-🚀 Flutter Developer with passion for building elegant mobile solutions
+I’m a passionate Flutter developer with 1+ year of hands-on experience building scalable and user-friendly mobile applications. I enjoy turning ideas into real products and writing clean, maintainable code.
 
-💡 **What I do:**
-• Cross-platform app development (iOS & Android)
-• Clean architecture (MVC, MVVM)
-• State management (GetX, Provider)
-• Backend integration (Supabase, Firebase, REST APIs)
+---
 
-🏆 **Featured Project: Reserve Bite**
-A complete restaurant reservation system with 3 user roles, real-time updates, and Supabase backend
+## 🧑‍💻 About Me
 
-📚 Always learning, always growing
+- 🔭 Currently focused on building high-quality Flutter applications  
+- 🌱 Learning advanced app architecture & performance optimization  
+- 💡 Strong interest in real-time apps & backend integration  
+- 🎯 Goal: Become a top-tier mobile app developer  
 
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-sarfraz-3b150638b?utm_source=share_via&utm_content=profile)
+---
 
+## 🛠️ Tech Stack
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizansarfraz.info@gmail.com)
+### 📱 Mobile Development
+- Flutter, Dart  
+
+### ⚙️ State Management
+- GetX, Provider  
+
+### 🗄️ Backend & APIs
+- Supabase, Firebase  
+- REST API Integration  
+
+### 🧱 Architecture & Practices
+- MVC Architecture  
+- Clean Code Principles  
+- Responsive UI Design  
+
+### 🔧 Tools
+- Git & GitHub  
+
+---
+
+## 🚀 Featured Projects
+
+### 🍽️ Reserve Bite – Restaurant Reservation System
+📌 Flutter | Supabase | GetX | MVC  
+
+- Built a complete multi-role system (User, Restaurant Owner, Admin)  
+- Real-time booking management system  
+- Reduced booking conflicts with structured backend logic  
+- Clean MVC architecture with reusable components  
+
+🔗 GitHub Repo: https://github.com/faizan-sarfraz/Reserve-Bite
+
+---
+
+### 🕵️ Issue Snap – Anonymous Feedback Platform
+📌 Flutter | Supabase | File Upload  
+
+- Developed anonymous reporting system with image uploads  
+- Real-time issue tracking for admins  
+- Secure data handling using Supabase  
+- Tested with 20+ real feedback submissions  
+
+🔗 GitHub Repo: https://github.com/faizan-sarfraz/
+
+---
+
+## 💼 Experience
+
+### 🚀 Flutter Intern – Devsynx
+📅 Jan 2026 – Mar 2026  
+
+- Worked as a sole Flutter developer on assigned projects  
+- Managed complete app lifecycle (UI → Backend → Testing)  
+- Built real-world features using APIs, Supabase & Firebase  
+
+---
+
+### 💻 Flutter Intern – Code Alpha
+📅 Apr 2025 – Jun 2025  
+
+- Developed Flutter apps from concept to deployment  
+- Integrated Firebase Authentication & Firestore  
+- Focused on UI/UX and backend connectivity  
+
+---
+
+## 📊 GitHub Stats
+
+![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan-sarfraz&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: faizansarfraz.info@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/faizan-sarfraz  
+- 🧑‍💻 GitHub: https://github.com/faizan-sarfraz  
+
+---
