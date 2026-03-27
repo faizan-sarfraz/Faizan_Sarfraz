@@ -58,7 +58,6 @@ I’m a passionate Flutter developer with 1+ year of hands-on experience buildin
 - Real-time issue tracking for admins  
 - Secure data handling using Supabase  
 - Tested with 20+ real feedback submissions  
-
 🔗 GitHub Repo:
 https://github.com/faizan-sarfraz/Issue-Snap
 ---
